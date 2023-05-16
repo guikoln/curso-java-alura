@@ -12,6 +12,7 @@ public class Leitura {
         System.out.println("Diga sua avaliação para o filme");
         double avaliacao = leitura.nextDouble();
 
+
         System.out.println(filme);
         System.out.println(anoDeLancamento);
         System.out.println(avaliacao);

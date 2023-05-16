@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Ano de Lançamento " + anoDeLancamento);
         boolean incluidoNoPlano = true;
         double notaDoFilme = 8.1;
+
         //Média calcualda pelas 3 notas da Jack, Paulo e Suelem
         double media = (9.8 + 6.3 + 8.0) / 3;
         System.out.println(media);

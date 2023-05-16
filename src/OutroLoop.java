@@ -14,6 +14,7 @@ public class OutroLoop {
             if (nota != -1) {
                 mediaAvaliacao += nota;
                 totalDeNotas++;
+
             }
         }
         System.out.println("Medía de avaliações " + mediaAvaliacao / totalDeNotas);

@@ -20,6 +20,7 @@ public class JogoAdivinhacao {
             } else {
                 System.out.println("O número digitado é maior que o numero gerado.");
             }
+
         }
 
         if (tentativas == 5 ){
